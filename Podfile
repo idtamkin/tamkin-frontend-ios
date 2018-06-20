@@ -6,10 +6,10 @@ target 'Microfinance' do
   use_frameworks!
 
   # Pods for Microfinance
-  pod 'Swinject', '~> 2.4.0'
-  pod 'ObjectMapper', '~> 3.1.0'
+  pod 'Swinject', '~> 2.4.1'
+  pod 'ObjectMapper', '~> 3.3.0'
   pod 'Alamofire', '~> 4.7.2'
   pod 'AlamofireObjectMapper', '~> 5.0.0'
   pod 'Kingfisher', '~> 4.8.0'
-  pod 'RxSwift', '~> 4.1.2'
+  pod 'RxSwift', '~> 4.2.0'
 end
